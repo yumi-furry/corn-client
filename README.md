@@ -92,4 +92,4 @@
 - sophisticatedcore-1.21.1-1.4.42.1878.jar 精妙核心
 - chat_heads-0.15.1-neoforge-1.21.jar 聊天头像
 
-## Modrinth页面：https://modrinth.com/modpack/corn-client/settings/description
+## Modrinth页面：https://modrinth.com/modpack/corn-client
